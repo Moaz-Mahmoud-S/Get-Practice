@@ -5,7 +5,11 @@ strawberries
 orange
 
 Meat
-Susage
+sausage
+Bacon
+Lamb
+Beef
+Pork
 
 Dairy
 
