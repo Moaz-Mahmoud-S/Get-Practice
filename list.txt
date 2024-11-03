@@ -12,7 +12,9 @@ Beef
 Pork
 
 Dairy
-
+Milk
+Cheese
+Yougert
 
 House
 
