@@ -8,7 +8,9 @@ Meat
 Susage
 
 Dairy
-
+Milk
+Cheese
+Yougert
 
 House
 
